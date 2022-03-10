@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Bad guy
 - 📫 How to reach me ... Nope
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=nostprumprajee&theme=dracula" />
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nostprumprajee/nostprumprajee/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
