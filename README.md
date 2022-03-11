@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nost</h1>
 
+## 🚀 About Me
+
 - 👀 I’m interested in Coding and Music
 - 🌱 I’m currently learning to be a Good guy
 - 💞️ I’m looking to collaborate on Bad guy
 - 📫 How to reach me ... Nope
-- 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nostprumprajee&show_icons=true&locale=en&layout=compact" alt="nostprumprajee" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nostprumprajee&theme=dracula" />
