@@ -6,7 +6,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nostprumprajee&theme=dracula" />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nostprumprajee/nostprumprajee/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/nostprumprajee"><img src="https://github.com/nostprumprajee/nostprumprajee/blob/main/devcard.svg" width="400" alt="Nost Dev Card"/></a>
 
 <!---
 nostprumprajee/nostprumprajee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
