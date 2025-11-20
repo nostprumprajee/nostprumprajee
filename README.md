@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="Hi GIF"/> 
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/> 
   Hi, I'm <a href="https://github.com/nostprumprajee">Nost</a>
 </h1>
 <p align="center">
@@ -25,23 +25,39 @@
 
 <p align="left">
   <strong>Python</strong>  
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
+  <img src="https://img.shields.io/badge/Python-90%-green?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 </p>
 <p align="left">
   <strong>JavaScript</strong>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-80%-yellow?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 </p>
 <p align="left">
   <strong>Java</strong>  
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Java-70%-blue?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 </p>
 <p align="left">
   <strong>SQL / MySQL</strong>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-75%-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 </p>
 <p align="left">
   <strong>Git & GitHub</strong>  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Git-85%-orange?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+</p>
+
+---
+
+## 💼 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/nostprumprajee/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project1&theme=dracula" alt="Project1" width="250"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project2&theme=dracula" alt="Project2" width="250"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project3&theme=dracula" alt="Project3" width="250"/>
+  </a>
 </p>
 
 ---
@@ -55,10 +71,11 @@
 
 ---
 
-## 📈 Activity Graph
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostprumprajee&theme=dracula" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostprumprajee&theme=dracula" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nostprumprajee&theme=dracula" width="300"/>
 </p>
 
 ---
@@ -82,4 +99,4 @@
 
 ---
 
-> “Keep coding, keep learning, keep smiling 😎”
+> <p align="center"><em>“Keep coding, keep learning, keep smiling 😎”</em></p>
