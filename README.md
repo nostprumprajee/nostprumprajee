@@ -22,12 +22,14 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/NodeJs-000000?style=flat&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Golang-000000?style=flat&logo=Go" />
   <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/Springboot-000000?style=flat&logo=springboot" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Postgresql-000000?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Mongo-000000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/Rabbitmq-000000?style=flat&logo=rabbitmq" />
   <img src="https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka" />
@@ -37,6 +39,7 @@
   <img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman" />
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Sonarqube-000000?style=flat&logo=sonarqubeforide" />
 </p>
 
 ---
