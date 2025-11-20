@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/> 
   Hi, I'm <a href="https://github.com/nostprumprajee">Nost</a>
 </h1>
+
 <p align="center">
-  <em>Coding enthusiast & Music lover 🎵 | Always learning, always improving 🚀</em>
+  <em><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&width=600&lines=Coding+%26+Music+Lover%C2%A0%F0%9F%8E%B5;Learning+New+Tech+Daily+%F0%9F%9A%80;Always+Improving+%F0%9F%92%AA" alt="Typing Effect" /></em>
 </p>
 
 <p align="center">
@@ -15,49 +16,35 @@
 ## 🔭 About Me
 
 - 👀 Interested in: Coding, Music & Tech Fun  
-- 🌱 Currently learning: Becoming a better developer & human  
-- 💞️ Looking to collaborate on: Challenging & fun projects  
+- 🌱 Currently learning: Better Developer & Human  
+- 💞️ Collaborate on: Challenging & Fun Projects  
 - 📫 Reach me: <em>Not sharing yet 😎</em>  
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills (Animated Look)
 
 <p align="left">
   <strong>Python</strong>  
-  <img src="https://img.shields.io/badge/Python-90%-green?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-██████████░░░░░░-green?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 </p>
 <p align="left">
   <strong>JavaScript</strong>  
-  <img src="https://img.shields.io/badge/JavaScript-80%-yellow?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-████████░░░░░░-yellow?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 </p>
 <p align="left">
   <strong>Java</strong>  
-  <img src="https://img.shields.io/badge/Java-70%-blue?style=for-the-badge&logo=java&logoColor=white" height="25"/>
-</p>
-<p align="left">
-  <strong>SQL / MySQL</strong>  
-  <img src="https://img.shields.io/badge/MySQL-75%-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-</p>
-<p align="left">
-  <strong>Git & GitHub</strong>  
-  <img src="https://img.shields.io/badge/Git-85%-orange?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Java-██████░░░░░░░░-blue?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 </p>
 
 ---
 
-## 💼 Projects Showcase
+## 💼 Projects Carousel
 
 <p align="center">
-  <a href="https://github.com/nostprumprajee/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project1&theme=dracula" alt="Project1" width="250"/>
-  </a>
-  <a href="https://github.com/nostprumprajee/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project2&theme=dracula" alt="Project2" width="250"/>
-  </a>
-  <a href="https://github.com/nostprumprajee/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project3&theme=dracula" alt="Project3" width="250"/>
-  </a>
+  <a href="https://github.com/nostprumprajee/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project1&theme=dracula" width="200"/></a>
+  <a href="https://github.com/nostprumprajee/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project2&theme=dracula" width="200"/></a>
+  <a href="https://github.com/nostprumprajee/project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project3&theme=dracula" width="200"/></a>
 </p>
 
 ---
@@ -71,11 +58,12 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Contributions
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostprumprajee&theme=dracula" width="300"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nostprumprajee&theme=dracula" width="300"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nostprumprajee&theme=dracula" width="600"/>
 </p>
 
 ---
