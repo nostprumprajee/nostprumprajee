@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect" />
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -18,53 +16,47 @@
 ## 🔭 About Me
 
 - 👀 Focused on: Modern Software Development, Clean Code & Music  
-- 🌱 Currently learning: DevOps, Microservices, Cloud & AI  
-- 💞️ Collaborating on: Open Source Projects & Tech Innovations  
-- 📫 Reach me: <em>Contact via LinkedIn / GitHub</em>  
+- 🌱 Learning: DevOps, Microservices, Cloud & AI  
+- 💞️ Collaborating on: Open Source Projects & Innovative Tech  
+- 📫 Reach me: Contact via LinkedIn / GitHub  
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills (Gradient + Pulse)
 
 <p align="left">
-  <strong>Python</strong>  
-  <img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=green" height="25"/>
+  <strong>Python</strong><br>
+  <img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=00ff00" height="25"/>
 </p>
 <p align="left">
-  <strong>JavaScript / Node.js</strong>  
-  <img src="https://progress-bar.dev/85/?title=JS&suffix=%25&color=yellow" height="25"/>
+  <strong>JavaScript / Node.js</strong><br>
+  <img src="https://progress-bar.dev/85/?title=JS&suffix=%25&color=ffff00" height="25"/>
 </p>
 <p align="left">
-  <strong>Java / Spring</strong>  
-  <img src="https://progress-bar.dev/80/?title=Java&suffix=%25&color=blue" height="25"/>
+  <strong>Java / Spring</strong><br>
+  <img src="https://progress-bar.dev/80/?title=Java&suffix=%25&color=0000ff" height="25"/>
 </p>
 <p align="left">
-  <strong>SQL / MySQL</strong>  
-  <img src="https://progress-bar.dev/80/?title=SQL&suffix=%25&color=blue" height="25"/>
+  <strong>SQL / MySQL</strong><br>
+  <img src="https://progress-bar.dev/80/?title=SQL&suffix=%25&color=0000ff" height="25"/>
 </p>
 <p align="left">
-  <strong>Git & GitHub</strong>  
-  <img src="https://progress-bar.dev/90/?title=Git&suffix=%25&color=orange" height="25"/>
+  <strong>Git & GitHub</strong><br>
+  <img src="https://progress-bar.dev/90/?title=Git&suffix=%25&color=ff8800" height="25"/>
 </p>
 <p align="left">
-  <strong>Docker & Kubernetes</strong>  
-  <img src="https://progress-bar.dev/75/?title=Cloud&suffix=%25&color=lightblue" height="25"/>
+  <strong>Docker & Kubernetes</strong><br>
+  <img src="https://progress-bar.dev/75/?title=Cloud&suffix=%25&color=00bfff" height="25"/>
 </p>
 
 ---
 
-## 💼 Projects Showcase
+## 💼 Projects Showcase (Auto-scroll Carousel Style)
 
 <p align="center">
-  <a href="https://github.com/nostprumprajee/project1">
-    <img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200"/>
-  </a>
-  <a href="https://github.com/nostprumprajee/project2">
-    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/>
-  </a>
-  <a href="https://github.com/nostprumprajee/project3">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
-  </a>
+  <a href="https://github.com/nostprumprajee/project1"><img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200"/></a>
+  <a href="https://github.com/nostprumprajee/project2"><img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/></a>
+  <a href="https://github.com/nostprumprajee/project3"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/></a>
 </p>
 
 ---
@@ -74,6 +66,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nostprumprajee&show_icons=true&theme=dracula&count_private=true" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostprumprajee&layout=compact&theme=dracula" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostprumprajee&theme=dracula" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nostprumprajee&theme=dracula" width="300"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nostprumprajee&theme=dracula" width="600"/>
 </p>
 
 ---
@@ -93,7 +91,7 @@
 
 - 🎸 Musician: Guitar & Piano  
 - ☕ Coffee Lover & Meme Enthusiast  
-- 💡 Always exploring new tech & clean code practices  
+- 💡 Exploring new tech & clean code practices  
 
 ---
 
