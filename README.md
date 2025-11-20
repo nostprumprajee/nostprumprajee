@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <!-- Particle animated banner GIF hosted in repo -->
   <img src="https://raw.githubusercontent.com/nostprumprajee/nostprumprajee/main/particle-banner.gif" width="700" alt="Particle Banner"/>
 </p>
 
@@ -23,14 +22,14 @@
 
 ---
 
-## 🛠 Skills (Gradient + Pulse)
+## 🛠 Skills
 
 <p align="left">
   <strong>Python</strong><br>
   <img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=00ff00" height="25"/>
 </p>
 <p align="left">
-  <strong>JavaScript / Node.js</strong><br>
+  <strong>JavaScript</strong><br>
   <img src="https://progress-bar.dev/85/?title=JS&suffix=%25&color=ffff00" height="25"/>
 </p>
 <p align="left">
@@ -52,17 +51,17 @@
 
 ---
 
-## 💼 Projects Showcase (GIF Carousel)
+## 💼 Projects Showcase
 
 <p align="center">
   <a href="https://github.com/nostprumprajee/project1">
-    <img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200" alt="Project1"/>
+    <img src="https://raw.githubusercontent.com/nostprumprajee/nostprumprajee/main/project1.gif" width="200" alt="Project1"/>
   </a>
   <a href="https://github.com/nostprumprajee/project2">
-    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200" alt="Project2"/>
+    <img src="https://raw.githubusercontent.com/nostprumprajee/nostprumprajee/main/project2.gif" width="200" alt="Project2"/>
   </a>
   <a href="https://github.com/nostprumprajee/project3">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Project3"/>
+    <img src="https://raw.githubusercontent.com/nostprumprajee/nostprumprajee/main/project3.gif" width="200" alt="Project3"/>
   </a>
 </p>
 
