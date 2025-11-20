@@ -1,57 +1,55 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/> 
   Hi, I'm <a href="https://github.com/nostprumprajee">Nost</a>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect"/>
+  <em>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Lover+🎵;Learning+New+Tech+Daily+🚀;Always+Improving+💡" alt="Typing Effect" />
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nostprumprajee/particle-banner/main/banner.gif" width="700" alt="Particle Banner"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="700" alt="Animated Banner"/>
 </p>
 
 ---
 
 ## 🔭 About Me
 
-- 👀 Focused on: Modern Software Development, Clean Code & Music  
-- 🌱 Learning: DevOps, Microservices, Cloud & AI  
-- 💞️ Collaborating on: Open Source Projects & Innovative Tech  
-- 📫 Reach me: Contact via LinkedIn / GitHub  
+- 👀 Interested in: Coding, Music & Tech Fun  
+- 🌱 Currently learning: Becoming a better developer & human  
+- 💞️ Collaborate on: Challenging & Fun Projects  
+- 📫 Reach me: <em>Not sharing yet 😎</em>  
 
 ---
 
-## 🛠 Skills (Animated Gradient + Pulse Loop)
+## 🛠 Skills (Animated Gradient + Pulse)
 
 <p align="left">
-  <strong>Python</strong><br>
-  <img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=00ff00" height="25"/>
+  <strong>Python</strong>  
+  <img src="https://progress-bar.dev/90/?title=Python&suffix=%25&color=green" height="25"/>
 </p>
 <p align="left">
-  <strong>JavaScript / Node.js</strong><br>
-  <img src="https://progress-bar.dev/85/?title=JS&suffix=%25&color=ffff00" height="25"/>
+  <strong>JavaScript</strong>  
+  <img src="https://progress-bar.dev/80/?title=JS&suffix=%25&color=yellow" height="25"/>
 </p>
 <p align="left">
-  <strong>Java / Spring</strong><br>
-  <img src="https://progress-bar.dev/80/?title=Java&suffix=%25&color=0000ff" height="25"/>
+  <strong>Java</strong>  
+  <img src="https://progress-bar.dev/70/?title=Java&suffix=%25&color=blue" height="25"/>
 </p>
 <p align="left">
-  <strong>SQL / MySQL</strong><br>
-  <img src="https://progress-bar.dev/80/?title=SQL&suffix=%25&color=0000ff" height="25"/>
+  <strong>SQL / MySQL</strong>  
+  <img src="https://progress-bar.dev/75/?title=SQL&suffix=%25&color=blue" height="25"/>
 </p>
 <p align="left">
-  <strong>Git & GitHub</strong><br>
-  <img src="https://progress-bar.dev/90/?title=Git&suffix=%25&color=ff8800" height="25"/>
-</p>
-<p align="left">
-  <strong>Docker & Kubernetes</strong><br>
-  <img src="https://progress-bar.dev/75/?title=Cloud&suffix=%25&color=00bfff" height="25"/>
+  <strong>Git & GitHub</strong>  
+  <img src="https://progress-bar.dev/85/?title=Git&suffix=%25&color=orange" height="25"/>
 </p>
 
 ---
 
-## 💼 Projects Showcase (Auto-scroll / Hover GIF Carousel)
+## 💼 Projects Carousel (GIF Animated)
 
 <p align="center">
   <a href="https://github.com/nostprumprajee/project1">
@@ -67,12 +65,16 @@
 
 ---
 
-## 📊 GitHub Stats + Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nostprumprajee&show_icons=true&theme=dracula&count_private=true" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostprumprajee&layout=compact&theme=dracula" width="350"/>
 </p>
+
+---
+
+## 🏆 Achievements & Contributions
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostprumprajee&theme=dracula" width="300"/>
@@ -95,10 +97,10 @@
 
 ## 🎯 Fun Facts
 
-- 🎸 Musician: Guitar & Piano  
-- ☕ Coffee Lover & Meme Enthusiast  
-- 💡 Exploring new tech & clean code practices  
+- 😎 Love memes & coffee ☕  
+- 🎸 Play guitar & piano  
+- 💡 Always exploring new tech & ideas  
 
 ---
 
-> <p align="center"><em>“Professional, Passionate, Persistent”</em></p>
+> <p align="center"><em>“Keep coding, keep learning, keep smiling 😎”</em></p>
