@@ -5,12 +5,12 @@
 
 <p align="center">
   <em>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Lover;Learning+New+Tech+Daily;Always+Improving" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Lover+🎵;Learning+New+Tech+Daily+🚀;Always+Improving+💡" alt="Typing Effect" />
   </em>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="600" alt="Banner GIF"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="700" alt="Animated Banner"/>
 </p>
 
 ---
@@ -18,13 +18,13 @@
 ## 🔭 About Me
 
 - 👀 Interested in: Coding, Music & Tech Fun  
-- 🌱 Currently learning: Better Developer & Human  
+- 🌱 Currently learning: Becoming a better developer & human  
 - 💞️ Collaborate on: Challenging & Fun Projects  
 - 📫 Reach me: <em>Not sharing yet 😎</em>  
 
 ---
 
-## 🛠 Skills (Animated Gradient Bars)
+## 🛠 Skills (Animated Gradient + Pulse)
 
 <p align="left">
   <strong>Python</strong>  
@@ -49,12 +49,18 @@
 
 ---
 
-## 💼 Projects Carousel (Animated Look)
+## 💼 Projects Carousel (GIF Animated)
 
 <p align="center">
-  <a href="https://github.com/nostprumprajee/project1"><img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200" alt="Project1"/></a>
-  <a href="https://github.com/nostprumprajee/project2"><img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200" alt="Project2"/></a>
-  <a href="https://github.com/nostprumprajee/project3"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Project3"/></a>
+  <a href="https://github.com/nostprumprajee/project1">
+    <img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200" alt="Project1"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project2">
+    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200" alt="Project2"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project3">
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Project3"/>
+  </a>
 </p>
 
 ---
