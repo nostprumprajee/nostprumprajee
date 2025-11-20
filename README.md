@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostprumprajee&layout=compact&theme=transparent&hide_title=true&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nostprumprajee&bg_color=ffffff00&color=000000&line=000000&point=000000&hide_border=true" width="95%" />
+</p>
+
 ---
 
 ## 📂 Featured Work
@@ -44,14 +48,32 @@
 
 ---
 
-## 🌱 Currently
-- refining fundamentals  
-- cleaning old code  
-- building quietly  
+## ⚙️ Tooling
+
+- Neovim / VS Code  
+- GitHub CLI  
+- Docker  
+- Linux / macOS  
+
+---
+
+## 📌 Now
+- rebuilding coding habits  
+- focusing on small, meaningful projects  
+- enjoying slow productivity  
+
+---
+
+## 🧭 How I Work
+- simplicity over complexity  
+- quality over speed  
+- focus over noise  
 
 ---
 
 ## 🕊 Philosophy
 > **“Do less, but better.”**
+
+<p align="center"><sub>crafted with calmness • built with intention</sub></p>
 
 ---
