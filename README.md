@@ -38,7 +38,7 @@
 ## 📂 Featured Work
 > A small selection of things I’ve built.
 
-- 🔧 Project 1  
+- 🔧 **[Latex-Resume](https://github.com/nostprumprajee/Latex-Resume)**  
 - 🎵 Project 2  
 - 🧩 Project 3  
 
