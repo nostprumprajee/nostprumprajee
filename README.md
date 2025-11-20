@@ -4,6 +4,10 @@
   <em>minimal. clean. intentional.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nostprumprajee&label=views&color=000000&style=flat-square" />
+</p>
+
 ---
 
 ## 👤 About Me
@@ -48,26 +52,25 @@
 
 ---
 
-## ⚙️ Tooling
-
-- Neovim / VS Code  
-- GitHub CLI  
-- Docker  
-- Linux / macOS  
+## 🔧 Setup Philosophy
+- lightweight tooling  
+- reproducible environments  
+- minimal dependencies  
 
 ---
 
-## 📌 Now
-- rebuilding coding habits  
-- focusing on small, meaningful projects  
-- enjoying slow productivity  
+## 🪶 Values
+- clarity over cleverness  
+- consistency over novelty  
+- timeless over trendy  
+- simplicity over noise  
 
 ---
 
-## 🧭 How I Work
-- simplicity over complexity  
-- quality over speed  
-- focus over noise  
+## 🌱 Currently
+- refining fundamentals  
+- cleaning old code  
+- building quietly  
 
 ---
 
