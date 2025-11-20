@@ -39,8 +39,8 @@
 > A small selection of things I’ve built.
 
 - 🔧 **[Latex-Resume](https://github.com/nostprumprajee/Latex-Resume)**  
-- 🎵 Project 2  
-- 🧩 Project 3  
+- 🎵 **[workshop](https://github.com/nostprumprajee/workshop.git)**
+- 🧩 **[Traveler](https://github.com/nostprumprajee/Traveler.git)**
 
 ---
 
