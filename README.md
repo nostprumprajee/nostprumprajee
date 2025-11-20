@@ -1,19 +1,26 @@
 <h1 align="center">
-  Hi 👋, I'm <a href="https://github.com/nostprumprajee">Nost</a>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/> 
+  Hi, I'm <a href="https://github.com/nostprumprajee">Nost</a>
 </h1>
 
 <p align="center">
-  <em>Coding enthusiast & Music lover 🎵 | Always learning 🚀</em>
+  <em>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect" />
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="700" alt="Animated Banner"/>
 </p>
 
 ---
 
 ## 🔭 About Me
 
-- 👀 Interested in: Coding, Music & Tech Fun  
-- 🌱 Currently learning: Becoming a better developer & human  
-- 💞️ Collaborate on: Challenging & fun projects  
-- 📫 Reach me: <em>Not sharing yet 😎</em>  
+- 👀 Focused on: Modern Software Development, Clean Code & Music  
+- 🌱 Currently learning: DevOps, Microservices, Cloud & AI  
+- 💞️ Collaborating on: Open Source Projects & Tech Innovations  
+- 📫 Reach me: <em>Contact via LinkedIn / GitHub</em>  
 
 ---
 
@@ -21,38 +28,42 @@
 
 <p align="left">
   <strong>Python</strong>  
-  <img src="https://img.shields.io/badge/Python-90%25-green?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  <img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=green" height="25"/>
 </p>
 <p align="left">
-  <strong>JavaScript</strong>  
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <strong>JavaScript / Node.js</strong>  
+  <img src="https://progress-bar.dev/85/?title=JS&suffix=%25&color=yellow" height="25"/>
 </p>
 <p align="left">
-  <strong>Java</strong>  
-  <img src="https://img.shields.io/badge/Java-70%25-blue?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+  <strong>Java / Spring</strong>  
+  <img src="https://progress-bar.dev/80/?title=Java&suffix=%25&color=blue" height="25"/>
 </p>
 <p align="left">
   <strong>SQL / MySQL</strong>  
-  <img src="https://img.shields.io/badge/SQL-75%25-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://progress-bar.dev/80/?title=SQL&suffix=%25&color=blue" height="25"/>
 </p>
 <p align="left">
   <strong>Git & GitHub</strong>  
-  <img src="https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://progress-bar.dev/90/?title=Git&suffix=%25&color=orange" height="25"/>
+</p>
+<p align="left">
+  <strong>Docker & Kubernetes</strong>  
+  <img src="https://progress-bar.dev/75/?title=Cloud&suffix=%25&color=lightblue" height="25"/>
 </p>
 
 ---
 
-## 💼 Projects
+## 💼 Projects Showcase
 
 <p align="center">
   <a href="https://github.com/nostprumprajee/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project1&theme=dracula" width="200"/>
+    <img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200"/>
   </a>
   <a href="https://github.com/nostprumprajee/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project2&theme=dracula" width="200"/>
+    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/>
   </a>
   <a href="https://github.com/nostprumprajee/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nostprumprajee&repo=project3&theme=dracula" width="200"/>
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
   </a>
 </p>
 
@@ -80,10 +91,10 @@
 
 ## 🎯 Fun Facts
 
-- 😎 Love memes & coffee ☕  
-- 🎸 Play guitar & piano  
-- 💡 Always exploring new tech & ideas  
+- 🎸 Musician: Guitar & Piano  
+- ☕ Coffee Lover & Meme Enthusiast  
+- 💡 Always exploring new tech & clean code practices  
 
 ---
 
-> <p align="center"><em>“Keep coding, keep learning, keep smiling 😎”</em></p>
+> <p align="center"><em>“Professional, Passionate, Persistent”</em></p>
