@@ -1,14 +1,15 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/> 
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Hi GIF"/>
   Hi, I'm <a href="https://github.com/nostprumprajee">Nost</a>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="700" alt="Animated Banner"/>
+  <!-- Particle animated banner GIF hosted in repo -->
+  <img src="https://raw.githubusercontent.com/nostprumprajee/nostprumprajee/main/particle-banner.gif" width="700" alt="Particle Banner"/>
 </p>
 
 ---
@@ -51,12 +52,18 @@
 
 ---
 
-## 💼 Projects Showcase (Auto-scroll Carousel Style)
+## 💼 Projects Showcase (GIF Carousel)
 
 <p align="center">
-  <a href="https://github.com/nostprumprajee/project1"><img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200"/></a>
-  <a href="https://github.com/nostprumprajee/project2"><img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/></a>
-  <a href="https://github.com/nostprumprajee/project3"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/></a>
+  <a href="https://github.com/nostprumprajee/project1">
+    <img src="https://media.giphy.com/media/L6sZQkVYt0eqVxe9Zb/giphy.gif" width="200" alt="Project1"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project2">
+    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200" alt="Project2"/>
+  </a>
+  <a href="https://github.com/nostprumprajee/project3">
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Project3"/>
+  </a>
 </p>
 
 ---
