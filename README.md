@@ -4,17 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF69B4&width=600&lines=Coding+%26+Music+Enthusiast+🎵;Building+Professional+Software+Solutions+🚀;Always+Learning+and+Improving+💡" alt="Typing Effect" />
 </p>
 
-<p align="center">
-  <img src="particle-banner.gif" width="700" alt="Particle Banner"/>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 👀 I’m interested in Coding and Music  
+- 👀 Interested in Coding and Music  
 - 🌱 Currently learning new tech daily  
-- 💞️ Looking to collaborate on open source projects  
+- 💞️ Looking to collaborate on interesting projects  
 - 📫 Reach me: [GitHub](https://github.com/nostprumprajee) / [LinkedIn](https://www.linkedin.com/in/nostprumprajee)
 
 ---
@@ -26,16 +22,17 @@
 - Java ![80%](https://progress-bar.dev/80/?title=Java&color=0000ff)  
 - SQL ![80%](https://progress-bar.dev/80/?title=SQL&color=0000ff)  
 - Git & GitHub ![90%](https://progress-bar.dev/90/?title=Git&color=ff8800)  
+- Docker & Kubernetes ![75%](https://progress-bar.dev/75/?title=Cloud&color=00bfff)
 
 ---
 
 ## 💼 Projects Showcase
 
-<p align="center">
-  <a href="https://github.com/nostprumprajee/project1"><img src="project1.gif" width="200"/></a>
-  <a href="https://github.com/nostprumprajee/project2"><img src="project2.gif" width="200"/></a>
-  <a href="https://github.com/nostprumprajee/project3"><img src="project3.gif" width="200"/></a>
-</p>
+| Project | Description | Link |
+|---------|-------------|------|
+| Project1 | Example project 1 | [GitHub](https://github.com/nostprumprajee/project1) |
+| Project2 | Example project 2 | [GitHub](https://github.com/nostprumprajee/project2) |
+| Project3 | Example project 3 | [GitHub](https://github.com/nostprumprajee/project3) |
 
 ---
 
